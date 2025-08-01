@@ -1,0 +1,20 @@
+{
+  "name": "nodemail",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/localhostgokul/nodemail#readme",
+  "bugs": {
+    "url": "https://github.com/localhostgokul/nodemail/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/localhostgokul/nodemail.git"
+  },
+  "license": "MIT",
+  "author": "gokulnath",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  }
+}
